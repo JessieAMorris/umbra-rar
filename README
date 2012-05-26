@@ -1,0 +1,12 @@
+This is my tool, I give no warranty whatsoever. Do what you want with the code, I am not putting any copyright on it, it is yours to do as you please.
+
+
+Requirements:
+	Unix based system
+	unrar command line tool installed
+
+
+How to use:
+	python rar_decrypt_tool.py rar_file.rar possible_key_file.txt <number_of_lines_per_try>
+
+	The number of lines per try is optional and defaults to one.
